@@ -40,8 +40,8 @@ Ca nào hai người quyết khác nhau, và luật nào còn thiếu trong `GUI
 
 | Evidence                                             | Giá trị                               |
 | ---------------------------------------------------- | ------------------------------------- |
-| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `chưa có trong kết quả được cung cấp` |
-| Thời điểm khóa                                       | `chưa ghi lại`                        |
+| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `f2a53d5091c7f2f8122f5ddc65729ec5870e27bd5e15d7238024106ee2a290b9` |
+| Thời điểm khóa                                       | `2026-09-15T05:43:38.914338+00:00`                              |
 | Số row / frame / track trước khi mở reference        | `610 / 190 / 8`                       |
 
 |              |                    HOTA |  DetA |  AssA |  LocA |  IDF1 |  MOTA |  MOTP | FP | FN | IDSW |
